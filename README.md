@@ -1,4 +1,4 @@
-# Books Pagination Scraper
+<img width="1182" height="772" alt="image" src="https://github.com/user-attachments/assets/cf852660-6978-4ade-84f7-79d764e65075" /># Books Pagination Scraper
 
 A Python web scraping script using BeautifulSoup and Requests to extract book details across multiple pages and save the data into an Excel spreadsheet.
 
@@ -8,5 +8,5 @@ A Python web scraping script using BeautifulSoup and Requests to extract book de
 - Exports scraped data directly to Excel using Pandas
 
 ## Scraped Data Preview
+![Excel Preview](excel_preview_1.png)
 
-![Excel Preview](excel_preview.png)
