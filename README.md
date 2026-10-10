@@ -12,7 +12,7 @@ A Python-based web scraper that extracts book details across all 50 pages from [
 - **Export to Excel:** Automatically formats and saves the collected data into an `.xlsx` file.
 
 ##  Project Screenshot
-![Pagination Scraper Output](pagination_scraper.png)
+![Pagination Scraper Output](all_book pages.png)
 
 ##  Tech Stack
 - **Python**
